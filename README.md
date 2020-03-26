@@ -1,1 +1,3 @@
-# Aqui encontraras mis prácticas, proyectos y conocimientos que he ido recopilando a lo largo de mi carrera profesional, hay muchos proyectos que no estan aqui porque antes no usaba para nada github y otros porque han sido proyectos privados por lo cual no pude guardarlos en mi repositorio, visita las distintas carpetas dentro de este portafolio o mi pagina web para conocer mas sobre mi y mi trabajo. ¡Que tengas excelente vida!
+# Bienvenido a mi portafolio.
+
+Aqui encontraras mis prácticas, proyectos y conocimientos que he ido recopilando a lo largo de mi carrera profesional, hay muchos proyectos que no estan aqui porque antes no usaba para nada github y otros porque han sido proyectos privados por lo cual no pude guardarlos en mi repositorio, visita las distintas carpetas dentro de este portafolio o mi pagina web para conocer mas sobre mi y mi trabajo. ¡Que tengas excelente vida!
